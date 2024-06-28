@@ -21,10 +21,10 @@ Demonstração de como funciona a requisição e os resultados:
 Atualmente, os parâmetros são apenas uma string contendo um SQL.
 
 ### Caso a consulta retorne um SQL válido
-![SQL Válido](https://prnt.sc/_ZdWSkAZJz3u)
+![SQL Válido](https://i.imgur.com/wV8fFVE.png)
 
 ### Caso a consulta retorne um SQL inválido
-![SQL Inválido](https://prnt.sc/gomQjAS_YkJA)
+![SQL Inválido](https://i.imgur.com/BEuZ2E5.png)
 
 ## Futuras Features
 - [ ] Receber um arquivo SQL diretamente
