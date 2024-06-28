@@ -2,7 +2,6 @@ package vhgomes.com.apisqlvalidator.service;
 
 import net.sf.jsqlparser.JSQLParserException;
 import net.sf.jsqlparser.parser.CCJSqlParserUtil;
-import net.sf.jsqlparser.statement.Statement;
 import net.sf.jsqlparser.statement.Statements;
 import org.springframework.http.ResponseEntity;
 import org.springframework.stereotype.Service;
